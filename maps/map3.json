@@ -499,7 +499,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-startegy-orientations\/innovation\/"
+                 "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-strategy-orientations\/innovation\/"
                 }],
          "type":"tilelayer",
          "visible":true,
