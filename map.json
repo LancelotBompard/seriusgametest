@@ -80,6 +80,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Keynote 2"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"int",
+                 "value":80
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -98,6 +103,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Keynote 1"
+                }, 
+                {
+                 "name":"jitsiWidth",
+                 "type":"string",
+                 "value":"80"
                 }],
          "type":"tilelayer",
          "visible":true,
