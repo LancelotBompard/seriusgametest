@@ -68,6 +68,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/cloud\/"
+                }, 
+                {
+                 "name":"openWebsiteWidth",
+                 "type":"int",
+                 "value":70
                 }],
          "type":"tilelayer",
          "visible":true,
